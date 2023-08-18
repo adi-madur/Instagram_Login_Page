@@ -1,6 +1,8 @@
 # Instagram Login Page
 ## Site is live at https://adi-madur.github.io/Instagram_Login_Page/
 
+#### Note: This is just a base web-page where it toggles between Sign Up page and Login page without reloading the website. Made using Vite + React
+
 ## To run this code in VS Code follow these steps:
 1. Open Terminal in VS Code.
 2. Type command 'npm i' and hit enter. It will start downloading node modules in it's folder.
