@@ -1,8 +1,11 @@
-# React + Vite
+# Instagram Login Page
+## Site is live at https://adi-madur.github.io/Instagram_Login_Page/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## To run this code in VS Code follow these steps:
+1. Open Terminal in VS Code.
+2. Type command 'npm i' and hit enter. It will start downloading node modules in it's folder.
+3. After the completion of download, enter command 'npm run dev' wait a few seconds.
+4. A link is shown which will be highlighted, Ctrl + Left Click on the link in the terminal and the web-page opens in your browser.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### If you like this, please give a Star...
+### THANK YOU...
